@@ -1,0 +1,1 @@
+If JSBSim.lib is missiing, download from here: https://drive.google.com/file/d/1PENfWzNG2ETRNF0F7D_ZMhu9e7WRAR6W/view?usp=sharing
